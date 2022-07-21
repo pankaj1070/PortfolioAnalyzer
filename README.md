@@ -3,7 +3,7 @@ Team Members: Pankaj Gautam, Michael Fiaani, Blandine Ishimwe, Omar Suleiman
 
 PORTFOLIO ANALYZER:
 
-The Portfolio Analyzer analyzes the perfomance of stocks over a time period. Belwo are the 3 parts to our projects:
+The Portfolio Analyzer analyzes the perfomance of stocks over a time period. Below are the 3 parts to our projects:
 
 1. Create a Portfolio of Stocks and analyze the perfomance of various Portfolios by Sectors,
 2. Optimization of most favourable portfolio. 
@@ -92,13 +92,43 @@ a. Monte Carlo Simulation: Monte Carlo simulations are used to model the probabi
 
 ![image](MC_Simulation2.png)
 
+Recommendations:
+
 b. Retirement anlaysis by investing in Portfolio 1:
 
 The Monte Carlo Simulation shows that the Portfolio 1 can generate at least $216k and maximum $1.13 M over the next 10 years for clients.
 
 c. Retirement anlaysis by investing 25% in Portfolio 1, 25% in SPY and 50% in Bonds:
 
-The new Monte Carlo Simulation shows that the less riskirer portfolio can generate at least $100k and maximum $212 over the next 10 years for clients which seems a reasonable returns for a conservative investor
+The new Monte Carlo Simulation shows that the less riskirer portfolio can generate at least $100k and maximum $212k over the next 10 years for clients which seems a reasonable returns for a conservative investor.
+
+Part 3: Creating a Portfolio dashboard for clients to view the returns from various portfolios over time 
+
+a. Daily Returns of the Portfolios:
+
+![image](Daily_Returns_hvplot.png)
+
+b. Daily Returns of the Portfolios by Sectorr:
+
+![image](Daily_Returns_HvPlot_Sector.png)
+
+c. Cumulative Returns of the Portfolios:
+
+![image](Cumulative_Returns_HvPlot.png)
+
+d. Risk vs Return by Portfolios and Sector:
+
+![image](Risk_Return_Ticker.png)
+![image](Risk_Return_Sector.png)
+
+Recommendations:
+
+The Hvplot shows that Technology Sector returns were much larger than the other 2 sectors and overall market.
+
+The 5 different hvplots would help a investor to determine the stocks to choose based on risk appetite and returns associated with them.
+
+A younger investor would like to create a portfolio of stocks weighing more in technology, wherease a conservative investor might go with the SPY index funds or Combination of equity and Bonds.
+
 
 
 
