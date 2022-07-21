@@ -9,7 +9,7 @@ The Portfolio Analyzer analyzes the perfomance of stocks over a time period. Bel
 2. Optimization of most favourable portfolio. 
 3. Creating a dashboard with intercative visualization to view the perfomance of portfolios.
 
-Project Presentation
+[Project Presentation](https://docs.google.com/presentation/d/1FC2qFnVyAURIEdi3Vhr_BPfVXIKGh5CAit9xvqNPEQ0/edit#slide=id.g13dd0be253b_0_159)
 
 Summary
 Overview
