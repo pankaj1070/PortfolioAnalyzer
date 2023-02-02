@@ -11,35 +11,39 @@ The Portfolio Analyzer analyzes the perfomance of different Asset Portfolios ove
 
 [Project Presentation](https://docs.google.com/presentation/d/1FC2qFnVyAURIEdi3Vhr_BPfVXIKGh5CAit9xvqNPEQ0/edit#slide=id.g13dd0be253b_0_159)
 
-Summary
-
-Overview
-
-Data Sources
-
-Python Library
-
-Data Extract & Analysis
-
-Results and Recommendations
-
-Q&A Session
+Summary of Project:
 
 1. Overview
+
+2. Data Sources
+
+3. Python Library
+
+4. Data Extract & Analysis
+
+5. Results and Recommendations
+
+
+1. Overview
+
 The purpose of this project is to present a detailed analysis of stock perfomances with historical performance and predict the returns of the most favourable portfolio.
 
 Target clients: New Investors
 
 2. Data Source
+
 Yahoo Finance
+
 ALPACA 
 
 3. Python Library
+
 Existing Libraries: Matplotlib, Pandas, Numpy, Hvplot, Plotly, Alpaca.
 
 New Libraries: yfinance, pandas_datareader.
 
 4. Data Extract & Analysis
+
 Imported ticker data from yahoo finance for calculation of stock performances for year 2017 to 2021.
 
 Identified the most favourable Portfolio based on returns, risk and Sharpe ratios.
@@ -53,6 +57,7 @@ Created interactive plots to view the returns generated from the portfolio and a
 5. Results and Recommendations
 
 Part1:
+
 a. Cumulative Return
 A cumulative return is the aggregate daily return that the stock has gained or lost over time. The cumulative return is expressed as a percentage based on the stock closing price.
 
@@ -129,7 +134,7 @@ d. Risk vs Return by Portfolios and Sector:
 
 Recommendations:
 
-The Hvplot shows that Technology Sector returns were much larger than the other 2 sectors and overall market.
+The Hvplot shows that the tech sector returns were much larger than the other 2 sectors and overall market.
 
 The 5 different hvplots would help a investor to determine the stocks to choose based on risk appetite and returns associated with them.
 
