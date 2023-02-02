@@ -1,13 +1,13 @@
-# Project1_Group5
+# PortfolioAnalyzer
 Team Members: Pankaj Gautam, Michael Fiaani, Blandine Ishimwe, Omar Suleiman
 
 PORTFOLIO ANALYZER:
 
-The Portfolio Analyzer analyzes the perfomance of stocks over a time period. Below are the 3 parts to our projects:
+The Portfolio Analyzer analyzes the perfomance of different Asset Portfolios over a time period. Below are the 3 parts to our projects:
 
 1. Create a Portfolio of Stocks and analyze the perfomance of various Portfolios by Sectors,
 2. Optimization of most favourable portfolio. 
-3. Creating a dashboard with intercative visualization to view the perfomance of portfolios.
+3. Creating a dashboard with interactive visualization to view the perfomance of portfolios.
 
 [Project Presentation](https://docs.google.com/presentation/d/1FC2qFnVyAURIEdi3Vhr_BPfVXIKGh5CAit9xvqNPEQ0/edit#slide=id.g13dd0be253b_0_159)
 
