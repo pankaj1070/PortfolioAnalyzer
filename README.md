@@ -12,11 +12,17 @@ The Portfolio Analyzer analyzes the perfomance of different Asset Portfolios ove
 [Project Presentation](https://docs.google.com/presentation/d/1FC2qFnVyAURIEdi3Vhr_BPfVXIKGh5CAit9xvqNPEQ0/edit#slide=id.g13dd0be253b_0_159)
 
 Summary
+
 Overview
+
 Data Sources
+
 Python Library
+
 Data Extract & Analysis
+
 Results and Recommendations
+
 Q&A Session
 
 1. Overview
