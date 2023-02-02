@@ -124,7 +124,7 @@ a. Daily Returns of the Portfolios:
 
 ![image](Images/Daily_Returns_hvplot.png)
 
-b. Daily Returns of the Portfolios by Sectorr:
+b. Daily Returns of the Portfolios by Sector:
 
 ![image](Images/Daily_Returns_HvPlot_Sector.png)
 
@@ -137,7 +137,7 @@ d. Risk vs Return by Portfolios and Sector:
 ![image](Images/Risk_Return_Ticker.png)
 ![image](Images/Risk_Return_Sector.png)
 
-### conclusion:
+### Conclusions:
 
 The Hvplot shows that the tech sector returns were much larger than the other 2 sectors and overall market.
 
