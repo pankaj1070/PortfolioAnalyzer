@@ -24,25 +24,25 @@ Summary of Project:
 5. Results and Recommendations
 
 
-1. Overview
+1.Overview
 
-The purpose of this project is to present a detailed analysis of stock perfomances with historical performance and predict the returns of the most favourable portfolio.
+The purpose of this project is to present a detailed analysis of stock perfomances with historical performance and predict the returns of the most favourable     portfolio.
 
 Target clients: New Investors
 
-2. Data Source
+2.Data Source
 
 Yahoo Finance
 
 ALPACA 
 
-3. Python Library
+3.Python Library
 
 Existing Libraries: Matplotlib, Pandas, Numpy, Hvplot, Plotly, Alpaca.
 
 New Libraries: yfinance, pandas_datareader.
 
-4. Data Extract & Analysis
+4.Data Extract & Analysis
 
 Imported ticker data from yahoo finance for calculation of stock performances for year 2017 to 2021.
 
@@ -54,16 +54,18 @@ Performed Monte Carlo Simulation to predict the return from a Portfolio over nex
 
 Created interactive plots to view the returns generated from the portfolio and asses the risks associated with the Portfolio.
 
-5. Results and Recommendations
+5.Results and Recommendations
 
 Part1:
 
 a. Cumulative Return
+
 A cumulative return is the aggregate daily return that the stock has gained or lost over time. The cumulative return is expressed as a percentage based on the stock closing price.
 
 ![image](Images/Cumulative_Returns.png)
 
 b. Sharpe Ratio
+
 Sharpe ratio is a well-known and well-reputed measure of risk-adjusted return on an investment or portfolio. It can be used to evaluate the performance of an individual stock.
 
 The Sharpe ratio indicates how well an equity investment performs in comparison to the rate of the S&P 500 index and NASDAQ.
@@ -71,6 +73,7 @@ The Sharpe ratio indicates how well an equity investment performs in comparison 
 ![image](Images/Sharpe_Ratios.png)
 
 c. Rolling Standard Deviation
+
 Standard deviation is the statistical measure of market volatility, measuring how widely prices are dispersed from the average price. If prices trade in a narrow trading range, the standard deviation will return a low value that indicates low volatility. A volatile stock has a high standard deviation, while the deviation of a stable blue-chip stock is usually rather low.
 
 Rolling Standard Deviation is a metric calculated over the range of a shifting (rolling) window. The Annualized Standard Deviation is the standard deviation multiplied by the square root of the number of periods in one year (252 trading days).
@@ -97,7 +100,9 @@ Recommendations:
 
 Part 2:
 
-a. Monte Carlo Simulation: Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
+a. Monte Carlo Simulation: 
+
+Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
 
 ![image](Images/MC_Simulation1.png)
 
