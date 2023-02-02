@@ -56,7 +56,7 @@ Created interactive plots to view the returns generated from the portfolio and a
 
 ### 5.Results and Recommendations
 
-#### Part1:
+## Part1:
 
 a. Cumulative Return
 
@@ -98,7 +98,7 @@ e. Portfolio Optimazation: Optimize a portfolio to assess maximum returns
 
 4. The MC Simulation anlysis shows that the optimal portolio with max sharpe ratio would give a return of 165% over 5 years.
 
-Part 2:
+## Part 2:
 
 #### a. Monte Carlo Simulation: 
 
@@ -118,7 +118,7 @@ c. Retirement anlaysis by investing 25% in Portfolio 1, 25% in SPY and 50% in Bo
 
 The new Monte Carlo Simulation shows that the less riskirer portfolio can generate at least $100k and maximum $212k over the next 10 years for clients which seems a reasonable returns for a conservative investor.
 
-Part 3: Creating a Portfolio dashboard for clients to view the returns from various portfolios over time 
+## Part 3: Creating a Portfolio dashboard for clients to view the returns from various portfolios over time 
 
 a. Daily Returns of the Portfolios:
 
@@ -137,7 +137,7 @@ d. Risk vs Return by Portfolios and Sector:
 ![image](Images/Risk_Return_Ticker.png)
 ![image](Images/Risk_Return_Sector.png)
 
-### Recommendations:
+### conclusion:
 
 The Hvplot shows that the tech sector returns were much larger than the other 2 sectors and overall market.
 
