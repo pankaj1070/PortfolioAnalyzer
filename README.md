@@ -11,7 +11,7 @@ The Portfolio Analyzer analyzes the perfomance of different Asset Portfolios ove
 
 [Project Presentation](https://docs.google.com/presentation/d/1FC2qFnVyAURIEdi3Vhr_BPfVXIKGh5CAit9xvqNPEQ0/edit#slide=id.g13dd0be253b_0_159)
 
-Summary of Project:
+## Summary of Project:
 
 1. Overview
 
@@ -24,25 +24,25 @@ Summary of Project:
 5. Results and Recommendations
 
 
-1.Overview
+### 1.Overview
 
 The purpose of this project is to present a detailed analysis of stock perfomances with historical performance and predict the returns of the most favourable     portfolio.
 
 Target clients: New Investors
 
-2.Data Source
+### 2.Data Source
 
 Yahoo Finance
 
 ALPACA 
 
-3.Python Library
+### 3.Python Library
 
 Existing Libraries: Matplotlib, Pandas, Numpy, Hvplot, Plotly, Alpaca.
 
 New Libraries: yfinance, pandas_datareader.
 
-4.Data Extract & Analysis
+### 4.Data Extract & Analysis
 
 Imported ticker data from yahoo finance for calculation of stock performances for year 2017 to 2021.
 
@@ -54,9 +54,9 @@ Performed Monte Carlo Simulation to predict the return from a Portfolio over nex
 
 Created interactive plots to view the returns generated from the portfolio and asses the risks associated with the Portfolio.
 
-5.Results and Recommendations
+### 5.Results and Recommendations
 
-Part1:
+#### Part1:
 
 a. Cumulative Return
 
@@ -88,7 +88,7 @@ e. Portfolio Optimazation: Optimize a portfolio to assess maximum returns
 
 ![image](Images/Optimal_Portfolio.png)
 
-Recommendations:
+### Recommendations:
 
 1. The Standard deviation shows Portfolio 2 is least risky and less riskier than than the overall market (S&P Index)
 
@@ -100,7 +100,7 @@ Recommendations:
 
 Part 2:
 
-a. Monte Carlo Simulation: 
+#### a. Monte Carlo Simulation: 
 
 Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
 
@@ -108,7 +108,7 @@ Monte Carlo simulations are used to model the probability of different outcomes 
 
 ![image](Images/MC_Simulation2.png)
 
-Recommendations:
+### Recommendations:
 
 b. Retirement anlaysis by investing in Portfolio 1:
 
@@ -137,7 +137,7 @@ d. Risk vs Return by Portfolios and Sector:
 ![image](Images/Risk_Return_Ticker.png)
 ![image](Images/Risk_Return_Sector.png)
 
-Recommendations:
+### Recommendations:
 
 The Hvplot shows that the tech sector returns were much larger than the other 2 sectors and overall market.
 
